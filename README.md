@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Umang Singh
 
-<!--
-**umangsingh-05/umangsingh-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Science Student
+- 💻 Learning Web Development
+- 🌱 Currently exploring React and DevOps
+- 📚 Solving DSA problems in C++
+- 🎯 Goal: Become a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+## 📈 Currently Working On
+
+- DSA
+- Web Development
+- Mini Projects
+
+## 📫 Connect with me
+
+GitHub: https://github.com/yourusername
